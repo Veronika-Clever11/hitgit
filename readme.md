@@ -2,13 +2,13 @@
 
 LICENSE: [MIT](./license.md)
 
-![git-logo](https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png)
+![gitlogo](./assets/gitlogo.png)
 
 ---
 
 ### Содержание:
 1. Что-то
-2. git add
+2. [git add](./add.md)
 
 ---
 
