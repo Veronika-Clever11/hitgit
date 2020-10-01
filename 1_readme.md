@@ -16,6 +16,7 @@ LICENSE: [MIT](./license.md)
 6. Добавляем файлы в проект.
 
 -----------------
-GIT logo by Veronika Clever - https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png,
-license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+GIT logo by Veronika Clever - https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png
+
+License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
