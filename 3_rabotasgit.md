@@ -2,7 +2,7 @@
 -------------------------------
 
 
-![super!](https://sib.fm/storage/article/May2020/sPVMyAJkWQAQZ3p1qe2y.jpg)
+![super!](./assets/super!.jpg)
 
 
 Начнем с создания нового репозитория на сайте _GitHub_. Вы также можете выполнить ___git init___ и создать новый репозиторий из директории проекта.

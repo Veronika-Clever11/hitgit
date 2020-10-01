@@ -1,4 +1,4 @@
-[< к содержанию](./soderzhanie.md)
+*[< к содержанию](./soderzhanie.md)*
 
 
 ### git add

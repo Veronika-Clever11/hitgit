@@ -3,7 +3,7 @@
 ------------------------------
 
 
-![git-vs-github](https://static.javatpoint.com/tutorial/git/images/git-vs-github.png)
+![git-vs-github](./assets/git-vs-github.png)
 
 **Git** — это система управления версиями, которая пришлась по душе практически всем — от разработчиков до дизайнеров. *GitHub* можно считать соцсетью для хранения кода. Это настоящая Мекка для технарей. Здесь вы можете попрактиковаться в разработке и придумать что-то свое, найти множество open-source проектов, передовых технологий, различных функций и дизайнов.
 
@@ -19,34 +19,42 @@
 
 Для начала необходимо запомнить следующие терминальные команды:
 
-__[git clone](./git_clone01.md)__
 
-__[git status](./git_status02.md)__
+```
+git clone
 
-__[git add](./git_add03.md)__
+git status
 
-__[git commit -m “ “](./git_commit04.md)__
+git add
 
-__[git push](./git_push05.md)__
+git commit -m “ “
+
+git push
+```
 
 Затем к ним добавим еще вот эти:
 
-__git init__
 
-__git branch__
+```
+git init
 
-__git merge__
+git branch
 
-__git checkout__
+git merge
+
+git checkout
+```
 
 Эти команды вам пригодятся в случае, если вы будете работать с другими людьми или захотите внести какие-то изменения в проект и протестировать их до создания коммита.
 
 Не лишней будет и вот такая команда:
 
-__git help__
+```
+git help
+```
 
 О ней мы также поговорим ниже.
 
 (Если вы работаете на Mac, то у вас уже установлен терминал. Нажмите на иконку с лупой в верхнем правом углу экрана и напечатайте слово terminal).
 
-![zadacha-programmista](https://s0.tchkcdn.com/g-6-JUxvR9weTwRzVbzrBWqQ/4/14998/640x640/w/0/0f82863d709a73e4b542944ea5ac6a90_821fca243bcc1503cc07e73eb6d1235f.jpg)
+![zadacha_programmista](./assets/zadacha_programmista.jpg)
